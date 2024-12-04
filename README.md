@@ -6,50 +6,30 @@
 ## 软件使用流程
 
 ### 基本功能
-
-![幻灯片9](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片9.jpg)
-
-![幻灯片10](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片10.jpg)
-
-![幻灯片11](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片11.jpg)
-
-![幻灯片12](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片12.jpg)
-
-![幻灯片13](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片13.jpg)
-
-![幻灯片14](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片14.jpg)
-
-![幻灯片15](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片15.jpg)
-
-![幻灯片16](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片16.jpg)
-
-![幻灯片17](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片17.jpg)
-
-![幻灯片18](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片18.jpg)
-
-![幻灯片19](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片19.jpg)
-
-![幻灯片21](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片21.jpg)
-
-![幻灯片22](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片22.jpg)
-
-![幻灯片23](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片23.jpg)
-
-![幻灯片24](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片24.jpg)
-
-![幻灯片25](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片25.jpg)
+<img align="center" src="image/幻灯片9.jpg" alt="幻灯片9.jpg"/>
+<img align="center" src="image/幻灯片10.jpg" alt="幻灯片10.jpg"/>
+<img align="center" src="image/幻灯片11.jpg" alt="幻灯片11.jpg"/>
+<img align="center" src="image/幻灯片12.jpg" alt="幻灯片12.jpg"/>
+<img align="center" src="image/幻灯片13.jpg" alt="幻灯片13.jpg"/>
+<img align="center" src="image/幻灯片14.jpg" alt="幻灯片14.jpg"/>
+<img align="center" src="image/幻灯片15.jpg" alt="幻灯片15.jpg"/>
+<img align="center" src="image/幻灯片16.jpg" alt="幻灯片16.jpg"/>
+<img align="center" src="image/幻灯片17.jpg" alt="幻灯片17.jpg"/>
+<img align="center" src="image/幻灯片18.jpg" alt="幻灯片18.jpg"/>
+<img align="center" src="image/幻灯片19.jpg" alt="幻灯片19.jpg"/>
+<img align="center" src="image/幻灯片20.jpg" alt="幻灯片20.jpg"/>
+<img align="center" src="image/幻灯片21.jpg" alt="幻灯片21.jpg"/>
+<img align="center" src="image/幻灯片22.jpg" alt="幻灯片22.jpg"/>
+<img align="center" src="image/幻灯片23.jpg" alt="幻灯片23.jpg"/>
+<img align="center" src="image/幻灯片24.jpg" alt="幻灯片24.jpg"/>
+<img align="center" src="image/幻灯片25.jpg" alt="幻灯片25.jpg"/>
 
 ### 杀手功能
-
-![幻灯片27](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片27.jpg)
-
-![幻灯片28](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片28.jpg)
-
-![幻灯片29](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片29.jpg)
-
-![幻灯片30](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片30.jpg)
-
-![幻灯片31](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\sale\幻灯片31.jpg)
+<img align="center" src="image/幻灯片27.jpg" alt="幻灯片27.jpg"/>
+<img align="center" src="image/幻灯片28.jpg" alt="幻灯片28.jpg"/>
+<img align="center" src="image/幻灯片29.jpg" alt="幻灯片29.jpg"/>
+<img align="center" src="image/幻灯片30.jpg" alt="幻灯片30.jpg"/>
+<img align="center" src="image/幻灯片31.jpg" alt="幻灯片31.jpg"/>
 
 ## 源码
 
@@ -66,5 +46,4 @@ cnblogs：
 > 不想注册的可以直接用测试账号：手机号（123），密码（123）
 
 使用手机扫码体验（注意只能Android用户使用，ios的开发者难申请而且比较贵）：
-
-![二维码](C:\Users\starry\Desktop\class\software\homework\beta冲刺\github\image\二维码.png)
+<img align="center" src="image/二维码.png" alt="二维码.png"/>
